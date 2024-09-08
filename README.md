@@ -16,7 +16,7 @@ You can install requests and beautifulsoup python module using "pip install <pac
 4. lifestyle
 5. business
 
-Choose one topic : tech
+Choose one topic : tech <br>
 Total news entries fetched :  54
 01. Apple Event 2024 Live Streaming: When and where to watch iPhone 16 series launch in India
 02. What to expect (and not) from Apple’s “It’s Glowtime” iPhone 16 event
